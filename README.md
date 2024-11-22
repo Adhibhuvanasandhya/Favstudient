@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 5. Open your browser and visit:
    ```
-   https://favstudientlist.vercel.app/
+   https://favstudient-5jot.vercel.app/
    ```
 
 ---
